@@ -1,4 +1,4 @@
-// Use class Syntax to Define a Constructor Function
+// Use class Syntax to Define a Constructor_Function
 // Only change code below this line
 class Vegetable {
     constructor(name){
