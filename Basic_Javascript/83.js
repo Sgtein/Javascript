@@ -1,4 +1,6 @@
 // Setup
+//GINSTEIN BAGUIO
+//September 12, 2023
 const testObj = {
     "hat": "ballcap",
     "shirt": "jersey",

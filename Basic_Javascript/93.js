@@ -1,4 +1,6 @@
 // Accessing Nested Arrays
+//GINSTEIN BAGUIO
+//September 12, 2023
 const myPlants = [
     {
       type: "flowers",

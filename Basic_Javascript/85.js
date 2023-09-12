@@ -1,5 +1,7 @@
 // Accessing Object Properties with Variables
 // Setup
+//GINSTEIN BAGUIO
+//September 12, 2023
 const testObj = {
     12: "Namath",
     16: "Montana",

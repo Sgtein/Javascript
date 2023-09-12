@@ -4,7 +4,8 @@
 // b - bird
 // c - cat
 // default - stuff
-
+//GINSTEIN BAGUIO
+//September 12, 2023
 function switchOfStuff(val) {
     let answer = "";
     // Only change code below this line

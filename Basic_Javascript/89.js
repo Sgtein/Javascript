@@ -1,5 +1,7 @@
 // Using Objects for Lookups
 // Setup
+//GINSTEIN BAGUIO
+//September 12, 2023
 function phoneticLookup(val) {
     let result = "";
   

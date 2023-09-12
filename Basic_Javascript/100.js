@@ -1,4 +1,6 @@
 // Nesting For Loops
+//GINSTEIN BAGUIO
+//September 12, 2023
 function multiplyAll(arr) {
     let product = 1;
     // Only change code below this line

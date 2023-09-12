@@ -1,4 +1,6 @@
 // Manipulating Complex Objects
+//GINSTEIN BAGUIO
+//September 12, 2023
 const myMusic = [
     {
       "artist": "Billy Joel",

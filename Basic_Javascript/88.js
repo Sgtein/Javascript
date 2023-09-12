@@ -1,4 +1,6 @@
 // Delete Properties from a JavaScript Object
+//GINSTEIN BAGUIO
+//September 12, 2023
 // Setup
 const myDog = {
     "name": "Happy Coder",

@@ -1,4 +1,6 @@
 // Replace Loops using Recursion
+//GINSTEIN BAGUIO
+//September 12, 2023
 function sum(arr, n) {
     // Only change code below this line
   if (n <= 0) {

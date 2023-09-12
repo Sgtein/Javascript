@@ -21,7 +21,8 @@
 //   default:
 //     answer = "c";
 // }
-
+//GINSTEIN BAGUIO
+//September 12, 2023
 // Change the chained if/else if statements into a switch statement.
 
 function chainToSwitch(val) {

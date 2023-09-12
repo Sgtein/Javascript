@@ -1,5 +1,7 @@
 // Record Collection
 // Setup
+//GINSTEIN BAGUIO
+//September 12, 2023
 const recordCollection = {
     2548: {
       albumTitle: 'Slippery When Wet',

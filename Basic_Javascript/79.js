@@ -1,5 +1,6 @@
 // Returning Boolean Values from Functions
-
+//GINSTEIN BAGUIO
+//September 12, 2023
 // Sometimes people use an if/else statement to do a comparison, like this:
 
 // function isEqual(a, b) {

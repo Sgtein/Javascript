@@ -1,5 +1,7 @@
 
 // Iterate Through an Array with a For Loop
+//GINSTEIN BAGUIO
+//September 12, 2023
 
 // Setup
 const myArr = [2, 3, 4, 5, 6];

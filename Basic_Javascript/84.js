@@ -1,5 +1,7 @@
 // Accessing Object Properties with Bracket Notation
 // Setup
+//GINSTEIN BAGUIO
+//September 12, 2023
 const testObj = {
     "an entree": "hamburger",
     "my side": "veggies",

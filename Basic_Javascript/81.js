@@ -1,4 +1,6 @@
 // Counting Cards
+//GINSTEIN BAGUIO
+//September 12, 2023
 let count = 0;
 
 function cc(card) {

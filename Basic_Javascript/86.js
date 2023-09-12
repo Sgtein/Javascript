@@ -1,4 +1,6 @@
 // Updating Object Properties
+//GINSTEIN BAGUIO
+//September 12, 2023
 // Setup
 const myDog = {
     "name": "Coder",

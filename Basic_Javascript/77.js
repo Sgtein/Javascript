@@ -3,7 +3,8 @@
 // 1-3 - Low
 // 4-6 - Mid
 // 7-9 - High
-
+//GINSTEIN BAGUIO
+//September 12, 2023
 // Note: You will need to have a case statement for each number in the range.
 
 function sequentialSizes(val) {
